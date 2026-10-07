@@ -1,16 +1,21 @@
-## Hi there 👋
+[Cover Page](cover page for github.jpeg)
 
-<!--
-**azharamtulfatima-create/azharamtulfatima-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Amtul Fatima! 👋
 
-Here are some ideas to get you started:
+I am a *Full-Stack Developer* who loves breaking down complex logic and putting together functional web applications. I lean heavily into backend engineering, but I appreciate a clean layout. I build real things for real humans.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Technical Toolkit
+
+- *Languages:* Python, SQL, JavaScript
+- *Frameworks & API Development:* FastAPI
+- *Databases & Version Control:* MySQL, Git, GitHub
+
+---
+
+### ⚡ Random Human Facts
+
+- 🧠 Currently deep in the weeds of exploring backend data pipelines and API architectures.
+- 💬 Ask me about building quick automation scripts, handling databases, or why my code finally worked on the third try.
+- ⚡ Fun fact: When I'm not debugging or writing SQL queries, I'm usually## Hi there 👋
