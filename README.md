@@ -1,4 +1,4 @@
-[Cover Page](cover page for github.jpeg)
+![Cover Page](cover page for github.jpeg)
 
 # Hi there, I'm Amtul Fatima! 👋
 
