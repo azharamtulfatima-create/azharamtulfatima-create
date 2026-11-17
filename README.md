@@ -1,9 +1,9 @@
 ![Cover Page](cover%20page%20for%20github.
 
 # Hi there, I'm Amtul Fatima! 👋
-
-I am a *Full-Stack Developer* who loves breaking down complex logic and putting together functional web applications. I lean heavily into backend engineering, but I appreciate a clean layout. I build real things for real humans.
-
+Python developer building backend APIs and working with data.
+Currently learning pandas and data analysis.
+Open to remote entry-level roles.
 ---
 
 ### 💻 Technical Toolkit
