@@ -1,9 +1,10 @@
 ![Cover Page](cover%20page%20for%20github.
 
-# Hi there, I'm Amtul Fatima! 👋
-Python developer building backend APIs and working with data.
-Currently learning pandas and data analysis.
-Open to remote entry-level roles.
+Hi, I'm Amtul Fatima 👋
+
+Python developer who loves building backend APIs and turning data into clear answers. Currently learning pandas and data analysis.
+
+📍 Open to remote entry-level roles
 ---
 
 ### 💻 Technical Toolkit
