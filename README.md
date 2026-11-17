@@ -1,4 +1,4 @@
-![Cover Page](cover%20page%20for%20github.
+! [CoverPng](cover%20page%20for%20github.
 
 *Hi, I'm Amtul Fatima 👋*
 
